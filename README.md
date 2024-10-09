@@ -1,4 +1,5 @@
- Controle Financeiro
+Controle Financeiro
+
 Este é um projeto de controle financeiro desenvolvido para ajudar os usuários a gerenciar suas finanças pessoais de forma simples e eficaz. O aplicativo permite que os usuários registrem suas entradas e saídas, visualizem um resumo das suas transações e acompanhem a saúde financeira ao longo do tempo.
 
 Recursos
@@ -13,4 +14,5 @@ Tecnologias Utilizadas
 -Styled Components: Para estilização de componentes de forma modular.
 -Hooks (useState, useEffect): Para gerenciamento de estado e efeitos colaterais.
 
-![Uploading controle.financeiro.jpg…]()
+
+![controle financeiro](https://github.com/user-attachments/assets/56abd708-8b66-4b30-87d3-d1c0500a39e8)
